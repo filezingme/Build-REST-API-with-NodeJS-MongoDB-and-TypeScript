@@ -1,0 +1,9 @@
+{
+  "name": "Build-REST-API-with-NodeJS-MongoDB-and-TypeScript",
+  "version": "1.0.0",
+  "description": "A mini social network",
+  "main": "src/server.js",
+  "repository": "https://github.com/filezingme/Build-REST-API-with-NodeJS-MongoDB-and-TypeScript.git",
+  "author": "thomas",
+  "license": "MIT"
+}
